@@ -1,0 +1,78 @@
+body
+{
+	background-color:#0e0e0e;
+	background-image:url(http://honfleur-hotel-honfleur.com/wp-content/uploads/2018/08/Sticker-Tete-D-Ours-En-Forme-Geometrique-Gale-Forme-Geometrique-Design.jpg);
+	background-size: contain;
+	background-size: 58%;
+	background-repeat:no-repeat; 
+	background-position: 50% 0%;
+	color : #747474;
+	margin : 58px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+P 
+{
+	text-align: center;
+}
+
+h1
+{
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom::5000 px;
+	margin-top:auto;
+	text-align : center;
+    color:#747474;
+}
+
+h2
+{
+	 text-align: center 
+
+}
+
+ol.ma_liste
+{
+    position : center;
+	text-align: center 
+}
+
+ul.menu 
+{
+	position: absolute;
+	top: 50px;
+	left: 1px;
+	width: 150px;
+	text-align: center 
+
+ }
+
+ul.menu li 
+{
+	margin: 5px;
+	padding: 5px;
+	border-right: 2px solid black;
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+nav {
+    float: right;
+    left: -50%;
+    position: relative;
+}
+ol { 
+	list-style-type: none; 
+	padding: 0px; 
+	margin: 0px;
+	left: 50%;
+	position: relative;
+}
+ol li {
+	display: block;
+	padding: 0px 10px;
+	margin: 0px;
+}
